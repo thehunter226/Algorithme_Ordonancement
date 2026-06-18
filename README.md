@@ -1,2 +1,3 @@
-# Algorithme_Ordonanacement
-Ce projet à pour object de realiser un programme en C qui a pour but de reproduire le fonctionnement des algorithme d'ordonnancement comme FIFO ET LRU 
+# Algorithme_Ordonancement
+Ce projet à pour objectif de realiser un programme en C
+Qui a pour but de reproduire le fonctionnement des algorithme d'ordonnancement comme FIFO ET LRU 
